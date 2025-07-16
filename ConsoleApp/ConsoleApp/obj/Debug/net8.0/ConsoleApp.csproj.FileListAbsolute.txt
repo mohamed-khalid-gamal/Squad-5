@@ -13,3 +13,18 @@ D:\WorkSpace\Squad-5\ConsoleApp\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dl
 D:\WorkSpace\Squad-5\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
 D:\WorkSpace\Squad-5\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
 D:\WorkSpace\Squad-5\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
+C:\Users\Anoos\Desktop\New folder\Squad-5\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+C:\Users\Anoos\Desktop\New folder\Squad-5\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+C:\Users\Anoos\Desktop\New folder\Squad-5\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+C:\Users\Anoos\Desktop\New folder\Squad-5\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+C:\Users\Anoos\Desktop\New folder\Squad-5\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+C:\Users\Anoos\Desktop\New folder\Squad-5\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anoos\Desktop\New folder\Squad-5\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Anoos\Desktop\New folder\Squad-5\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\Anoos\Desktop\New folder\Squad-5\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Anoos\Desktop\New folder\Squad-5\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.sourcelink.json
+C:\Users\Anoos\Desktop\New folder\Squad-5\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\Users\Anoos\Desktop\New folder\Squad-5\ConsoleApp\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\Users\Anoos\Desktop\New folder\Squad-5\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+C:\Users\Anoos\Desktop\New folder\Squad-5\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\Anoos\Desktop\New folder\Squad-5\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
