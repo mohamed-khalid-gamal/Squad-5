@@ -6,6 +6,7 @@
 
 		static void Main(string[] args)
 		{
+			SeedProducts();
 
 			int choice;
 			do
@@ -42,6 +43,15 @@
 			Console.WriteLine("7. List by Category");
 			Console.WriteLine("8. List by Price Range");
 			Console.WriteLine("0. Exit");
+		}
+
+		static void SeedProducts()
+		{
+			productService.CreateProduct("Laptop", 1500.00m, 1);
+			productService.CreateProduct("Phone", 800.00m, 1);
+			productService.CreateProduct("Desk Lamp", 35.99m, 2);
+			productService.CreateProduct("Book - Clean Code", 45.50m, 3);
+			productService.CreateProduct("USB-C Cable", 12.99m, 1);
 		}
 
 		static int GetChoice()
