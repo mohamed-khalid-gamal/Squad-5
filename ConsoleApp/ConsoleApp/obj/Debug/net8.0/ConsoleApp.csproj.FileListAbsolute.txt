@@ -1,0 +1,15 @@
+D:\WorkSpace\Squad-5\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\Squad-5\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\WorkSpace\Squad-5\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+D:\WorkSpace\Squad-5\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Squad-5\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.sourcelink.json
+D:\WorkSpace\Squad-5\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+D:\WorkSpace\Squad-5\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+D:\WorkSpace\Squad-5\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+D:\WorkSpace\Squad-5\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+D:\WorkSpace\Squad-5\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+D:\WorkSpace\Squad-5\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+D:\WorkSpace\Squad-5\ConsoleApp\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+D:\WorkSpace\Squad-5\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+D:\WorkSpace\Squad-5\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+D:\WorkSpace\Squad-5\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll

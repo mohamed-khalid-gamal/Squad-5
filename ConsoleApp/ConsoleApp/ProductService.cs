@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 
 namespace ConsoleApp
 {
@@ -10,6 +11,8 @@ namespace ConsoleApp
     {
         private readonly List<Product> _products;
         private int _nextId;
+
+        public delegate bool filterType(Product product);
 
         public ProductService()
         {
@@ -29,7 +32,7 @@ namespace ConsoleApp
 
         public Product GetProductById(int id)
         {
-            return _products.FirstOrDefault(p => p.Id == id);
+            return filterProducts(p => p.Id == id)[0];
         }
 
         public List<Product> GetAllProducts()
@@ -39,12 +42,12 @@ namespace ConsoleApp
 
         public List<Product> GetProductsByCategory(int catId)
         {
-            return _products.Where(p => p.CatId == catId).ToList();
+            return filterProducts(p => p.CatId == catId);
         }
 
         public List<Product> SearchProductsByName(string name)
         {
-            return _products.Where(p => p.Name.Contains(name, StringComparison.OrdinalIgnoreCase)).ToList();
+            return filterProducts(p => p.Name.Contains(name, StringComparison.OrdinalIgnoreCase));
         }
 
         public bool UpdateProduct(int id, string name = null, decimal? price = null, int? catId = null)
@@ -87,10 +90,13 @@ namespace ConsoleApp
         {
             return _products.Any(p => p.Id == id);
         }
-
         public List<Product> GetProductsByPriceRange(decimal minPrice, decimal maxPrice)
         {
-            return _products.Where(p => p.Price >= minPrice && p.Price <= maxPrice).ToList();
+            return filterProducts(p => p.Price >= minPrice && p.Price <= maxPrice);
+        }
+        public List<Product> filterProducts(filterType filter)
+        {
+            return _products.Where(p => filter(p)).ToList();
         }
     }
 }
